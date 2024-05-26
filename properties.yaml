@@ -6,4 +6,9 @@ simulated_properties:
     time_to_apogee: !!float 10 #seconds
     motor_diameter: !!float 54 #mm
     body_outer_diameter: !!float 56 #mm
-    
+    largest_possible_motor: !!str CTI-K660 #Manufacturer-Designation
+    simulated-motors: 
+        - 'CTI-K660'
+        - 'AER-J510'
+flight_results:
+    altitude: !!float 100 #meters
