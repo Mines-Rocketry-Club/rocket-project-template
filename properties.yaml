@@ -1,0 +1,9 @@
+%YAML 1.1
+--- # Rocket Properties
+simulated_properties:
+    expected_altitude: !!float 100 #meters
+    max_mach_number: !!float 2 #unitless
+    time_to_apogee: !!float 10 #seconds
+    motor_diameter: !!float 54 #mm
+    body_outer_diameter: !!float 56 #mm
+    
