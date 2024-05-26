@@ -9,3 +9,7 @@ This template header should be deleted once file have been added to the reposito
 |Motor Mount Diameter | mm|
 |Body Outer Diameter | mm|
 |Weight | kg|
+## Flight Record
+| Launch Date | Launch Site | Notes |
+|-------------|-------------|-------|
+|             |             |       |
